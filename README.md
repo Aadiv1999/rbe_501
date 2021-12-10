@@ -1,8 +1,9 @@
 # rbe_501
-*WPI RBE 501: Robot Dynamics, Course Project*  
-*Team Celtics*
+*Worcester Polytechnic Institute  
+RBE 501: Robot Dynamics: Course Project  
+Team Celtics*
 
-Modern robotics technologies have paved the way to automate several procedures in the dental industry. In this project we focus on implementing a workflow to automate the proximal and axial reduction steps required for dental crown preparation procedure  using a 6-DOF tendon sheath robot manipulator as descirbed in "A compact asymmetrical manipulator for robotic dentistry" in 2019 IEEE 9th AnnualInternational Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER). 
+Modern robotics technologies have paved the way to automate several procedures in the dental industry. In this project we focus on implementing a workflow to automate the proximal and axial reduction steps required for dental crown preparation procedure  using a 6-DOF tendon sheath robot manipulator as descirbed in ["A compact asymmetrical manipulator for robotic dentistry"](https://ieeexplore.ieee.org/document/9066571) in 2019 IEEE 9th AnnualInternational Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER). 
 
 ## Robot Modelling
 MATLAB’s Robotic System Toolbox is utilised to model the asymmetric configuration of the 6-DOF robot. To perform the tooth milling and grinding  operations, a drill is used in the actual manipulator as the end-effector and, therefore, to mimic the drill’s tasks, a prismatic joint with a constant length is used
