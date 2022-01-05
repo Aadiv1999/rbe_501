@@ -49,7 +49,8 @@ Clearance was measured at every point along the robot’s trajectory to ensure t
 The minimum distnace between the end effector and the neighbouring teeth is 0.51mm
 ![Clearance Validation](Pictures/clearance.gif)
 
-Youtube - [Presentation](https://www.youtube.com/watch?v=PazxKPg82kc)
+Youtube - [Presentation](https://www.youtube.com/watch?v=PazxKPg82kc)  
+Report - [PDF](https://drive.google.com/file/d/17WTWlM-oz16bXcswHSFqFgMfJrW-hqdM/view?usp=sharing)
 
 
 ### Acknowledgements
